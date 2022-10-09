@@ -21,9 +21,9 @@ have to call him if a space-ship landed on his estate."
 (Es una nave espacial. Debe ser por eso que mi padre vino aquí.
 Es uno de los mayores astrónomos del mundo y tu padre
 llamarlo si una nave espacial aterrizó en su propiedad".)
-"What are you talking about? Dad didn't even know that thing was there."¿De qué estás hablando? Papá ni siquiera sabía que esa cosa estaba allí
-He only came here because I told him I heard the thunder from here.
-Besides, there isn't any such thing as a space-ship."
+"What are you talking about? Dad didn't even know that thing was there."(¿De qué estás hablando? Papá ni siquiera sabía que esa cosa estaba allí)
+He only came here because I told him I heard the thunder from here.(Solo vino aquí porque le dije que escuché el trueno desde aquí.)
+Besides, there isn't any such thing as a space-ship."(Además, no existe tal cosa como una nave espacial.)
 
 "Sure, there is. Look at it. See those round things. They are ports. And
 you can see the rocket tubes."
