@@ -19,13 +19,13 @@ It's a space-ship.(Es una nave espacial.) That must be why my father came here.(
 He's one of the biggest astronomers in the world and your father would
 have to call him if a space-ship landed on his estate."
 (Es uno de los mayores astrónomos del mundo y tu padre deberia llamarlo si una nave espacial aterrizó en su propiedad".)
-"What are you talking about? (¿De qué estás hablando?) Dad didn't even know that thing was there.(:WQPapá ni siquiera sabía que esa cosa estaba allí.)
+"What are you talking about? (¿De qué estás hablando?) Dad didn't even know that thing was there.(QPapá ni siquiera sabía que esa cosa estaba allí.)
 He only came here because I told him I heard the thunder from here.(Solo vino aquí porque le dije que escuché el trueno desde aquí.)
 Besides, there isn't any such thing as a space-ship."(Además, no existe tal cosa como una nave espacial.)
 
-"Sure, there is. Look at it. See those round things. They are ports. And
-you can see the rocket tubes."("Claro que lo hay. Míralo. Mira esas cosas redondas. Son puertos. Y
-puedes ver los tubos de los cohetes".)
+"Sure, there is.(Claro que lo hay.) Look at it.(Miralo.) See those round things. (Mira esas cosas redondas) They are ports.(Son puertos) And
+you can see the rocket tubes."(Y
+puedes ver los tubos de los cohetes.)
 
 "How do you know so much?"("¿Cómo sabes tanto?")
 
