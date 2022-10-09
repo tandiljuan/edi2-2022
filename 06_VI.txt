@@ -81,7 +81,7 @@ animals?"(Red dijo: "Oye. No quieres que nos vean. Se supone que no debemos esta
 aquí. ¿Quieres que empiecen a hacer preguntas y se enteren de nuestras
 animales?")
 
-"I don't care. You said I was crazy."
+"I don't care. You said I was crazy."("No me importa. Dijiste que estaba loco".)
 
 "Snitcher! You promised you wouldn't tell."
 
