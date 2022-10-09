@@ -49,8 +49,8 @@ nosotros?" susurró indignado.)
 
 "Look here, Slim, you mean that's a ship from another world."("Mira, Slim, quieres decir que es un barco de otro mundo".)
 
-"It's _got_ to be. Look at my father going round and round it. He
-wouldn't be so interested if it was anything else."("Tiene que ser. Mira a mi padre dando vueltas y vueltas. Él
+"It's _got_ to be. "It's _got_ to be. Look at my father going round and round it. He
+wouldn't be so interested if it was anything else.("Tiene que ser. Mira a mi padre dando vueltas y vueltas. Él
 no estaría tan interesado si fuera otra cosa".)
 
 "Other worlds! Where are there other worlds?"("¡Otros mundos! ¿Dónde hay otros mundos?")
@@ -59,11 +59,9 @@ no estaría tan interesado si fuera otra cosa".)
 of them. And other stars probably have planets. There's probably
 zillions of planets."("En todas partes. ¿Qué hay de los planetas? Son mundos como el nuestro, algunos
 de ellos. Y otras estrellas probablemente tengan planetas. Probablemente haya
-millones de planetas".("En todas partes. ¿Qué hay de los planetas? Son mundos como el nuestro, algunos
-de ellos. Y otras estrellas probablemente tengan planetas. Probablemente haya
-millones de planetas".)
+millones de planetas".
 
-Red felt outweighed and outnumbered. He muttered, "You're crazy!"
+Red felt outweighed and outnumbered. He muttered, "You're crazy!"(Red se sintió superado en peso y en número. Murmuró: "¡Estás loco!")
 
 "All right, then. I'll show you."
 
