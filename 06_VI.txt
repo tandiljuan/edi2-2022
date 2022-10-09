@@ -86,7 +86,8 @@ animales?")
 "Snitcher! You promised you wouldn't tell."("¡Snitcher! Prometiste que no lo dirías".)
 
 "I'm _not_ going to tell. But if they find out themselves, it's your
-fault, for starting an argument and saying I was crazy."
+fault, for starting an argument and saying I was crazy."("No lo voy a decir. Pero si ellos mismos se enteran, es tu
+culpa, por empezar una discusión y decir que estaba loco.)
 
 "I take it back, then," grumbled Red.
 
