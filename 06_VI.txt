@@ -35,7 +35,7 @@ Slim was flushed. He said, "I read about them. My father has books about
 them. Old books. From Beforethewars."(Slim estaba sonrojado. Él dijo: "Leí sobre ellos. Mi padre tiene libros sobre
 a ellos. Libros viejos. De Antes de las Guerras".)
 
-"Huh. Now I know you're making it up. Books from Beforethewars!"
+"Huh. Now I know you're making it up. Books from Beforethewars!"("Huh. Ahora sé que te lo estás inventando. ¡Libros de Beforethewars!")
 
 "My father _has_ to have them. He teaches at the University. It's his
 job."
