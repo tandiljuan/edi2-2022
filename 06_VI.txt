@@ -83,7 +83,7 @@ animales?")
 
 "I don't care. You said I was crazy."("No me importa. Dijiste que estaba loco".)
 
-"Snitcher! You promised you wouldn't tell."
+"Snitcher! You promised you wouldn't tell."("¡Snitcher! Prometiste que no lo dirías".)
 
 "I'm _not_ going to tell. But if they find out themselves, it's your
 fault, for starting an argument and saying I was crazy."
