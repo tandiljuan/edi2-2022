@@ -57,7 +57,11 @@ no estaría tan interesado si fuera otra cosa".)
 
 "Everywhere. How about the planets? They're worlds just like ours, some
 of them. And other stars probably have planets. There's probably
-zillions of planets."
+zillions of planets."("En todas partes. ¿Qué hay de los planetas? Son mundos como el nuestro, algunos
+de ellos. Y otras estrellas probablemente tengan planetas. Probablemente haya
+millones de planetas".("En todas partes. ¿Qué hay de los planetas? Son mundos como el nuestro, algunos
+de ellos. Y otras estrellas probablemente tengan planetas. Probablemente haya
+millones de planetas".)
 
 Red felt outweighed and outnumbered. He muttered, "You're crazy!"
 
