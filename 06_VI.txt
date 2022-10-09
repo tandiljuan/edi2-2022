@@ -89,9 +89,9 @@ animales?")
 fault, for starting an argument and saying I was crazy."("No lo voy a decir. Pero si ellos mismos se enteran, es tu
 culpa, por empezar una discusión y decir que estaba loco.)
 
-"I take it back, then," grumbled Red.
+"I take it back, then," grumbled Red.("Me retracto, entonces", se quejó Red.)
 
-"Well, all right. You better."
+"Well, all right. You better."("Bueno, está bien. Será mejor que lo hagas".)
 
 In a way, Slim was disappointed. He wanted to see the space-ship at
 closer quarters. Still, he could not break his vow of secrecy even in
