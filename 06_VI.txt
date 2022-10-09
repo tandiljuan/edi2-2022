@@ -42,7 +42,8 @@ job".("Mi padre _tiene_ que tenerlos. Da clases en la Universidad. Es su
 trabajo.")
 
 His voice had risen and Red had to pull at him. "You want them to hear
-us?" he whispered indignantly.
+us?" he whispered indignantly.(Su voz se había alzado y Red tuvo que tirar de él. "Quieres que escuchen
+nosotros?" susurró indignado.)
 
 "Well, it is, too, a space-ship."
 
